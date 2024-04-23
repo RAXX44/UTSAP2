@@ -1,0 +1,1 @@
+// Mendeklarasikan library string
